@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imagenes__empresas {
+    height: 60px;
+    width: 90px;
+}
+
+.banderas {
+    height: 40px;
+    width: 40px;
+}

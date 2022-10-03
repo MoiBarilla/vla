@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    margin: auto;
+    min-width: 980px;
+    border-radius: 10px;
+}
+
+.encabezado__tabla {
+    border: 1px solid #1f1e1e;
+    color: white;
+    font-weight: bolder;
+    padding: 25px;
+}
+.cuerpo__tabla {
+    border: 1px solid #1f1e1e;
+    text-align: center;
+    padding: 25px;
+}
+
+.scroll {
+    overflow-x: auto;
+    padding: 50px;
+    width: 100%;
+}
