@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/vla/static/css/main.ae43834a.css",
+    "main.js": "/vla/static/js/main.6cdc5f2c.js",
+    "static/js/787.5533adbc.chunk.js": "/vla/static/js/787.5533adbc.chunk.js",
+    "static/media/Cursos__Banner.jpg": "/vla/static/media/Cursos__Banner.63561dcde385ed9a7df8.jpg",
+    "static/media/Student.jpg": "/vla/static/media/Student.465f13ca8d08359c486c.jpg",
+    "static/media/English.jpg": "/vla/static/media/English.fb30f67f15bb855f62d3.jpg",
+    "static/media/Contacto__Banner.jpg": "/vla/static/media/Contacto__Banner.cf4d76ff9747fe2c2240.jpg",
+    "static/media/Instagram.png": "/vla/static/media/Instagram.fcc4229d06443b537ab1.png",
+    "static/media/LinkedIn.png": "/vla/static/media/LinkedIn.d6cc41b41e746395a8dc.png",
+    "static/media/Facebook.png": "/vla/static/media/Facebook.18591441bbd66afdd230.png",
+    "static/media/Scrum.png": "/vla/static/media/Scrum.6b00148d850131ba3c67.png",
+    "static/media/Tik_Tok.png": "/vla/static/media/Tik_Tok.0e960399869096271c20.png",
+    "static/media/Nosotros__Banner.jpg": "/vla/static/media/Nosotros__Banner.8ceb0829e3e0502e597b.jpg",
+    "static/media/Concentrix.png": "/vla/static/media/Concentrix.1998a1fe431eb2e4ed8b.png",
+    "static/media/Portugues.jpg": "/vla/static/media/Portugues.778f14b498fcb91cc471.jpg",
+    "static/media/Project__Management.png": "/vla/static/media/Project__Management.43336c8db164e96bf371.png",
+    "static/media/Front__End.jpg": "/vla/static/media/Front__End.b4b603023d78c5dbd21e.jpg",
+    "static/media/Estados_Unidos.png": "/vla/static/media/Estados_Unidos.d012835349e2876bf5dd.png",
+    "static/media/España.png": "/vla/static/media/España.6e6826593dcbf66b3bf0.png",
+    "static/media/English_Kids.png": "/vla/static/media/English_Kids.9435fe5abab0c0ed50b9.png",
+    "static/media/Costa_Rica.png": "/vla/static/media/Costa_Rica.364c6833e640befd5855.png",
+    "static/media/Panama.png": "/vla/static/media/Panama.0be2b6aa5a86d018dcfe.png",
+    "static/media/Lean__Six__Sigma.jpg": "/vla/static/media/Lean__Six__Sigma.880f9b371cdb641d3542.jpg",
+    "static/media/Excel.jpg": "/vla/static/media/Excel.7184e7388302c3a90ed1.jpg",
+    "static/media/Cisco.jpg": "/vla/static/media/Cisco.782665f7348ec324c028.jpg",
+    "static/media/Python.png": "/vla/static/media/Python.17e034da6441ad3e1b22.png",
+    "index.html": "/vla/index.html",
+    "main.ae43834a.css.map": "/vla/static/css/main.ae43834a.css.map",
+    "main.6cdc5f2c.js.map": "/vla/static/js/main.6cdc5f2c.js.map",
+    "787.5533adbc.chunk.js.map": "/vla/static/js/787.5533adbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae43834a.css",
+    "static/js/main.6cdc5f2c.js"
+  ]
+}
