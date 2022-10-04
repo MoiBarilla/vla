@@ -19,7 +19,7 @@ class Navbar extends Component {
                     <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
 
                         <li className="nav-item">
-                            <NavLink className="nav-link" to='/inicio'>Inicio</NavLink>
+                            <NavLink className="nav-link" to='/'>Inicio</NavLink>
                         </li>
                         <li className="nav-item">
                             <NavLink className="nav-link" to='/cursos'>Cursos</NavLink>

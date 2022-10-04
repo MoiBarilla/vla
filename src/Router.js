@@ -17,7 +17,7 @@ class Router extends Component {
                 <Navbar />
                 <Switch>
                     <Route exact path='/' component = {Inicio} />
-                    <Route exact path='/inicio' component = {Inicio} />
+                    <Route exact path='/vla/' component = {Inicio} />
                     <Route exact path='/cursos' component = {Catalogocursos} />
                     <Route exact path='/nosotros' component = {Nosotros} />
                     <Route exact path='/contacto' component = {Contacto} />
